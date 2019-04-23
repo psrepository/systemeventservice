@@ -1,0 +1,85 @@
+{
+  "events": [
+    {
+      "id": "3273bf58-bf03-5cc2-b13b-9101b084ad44",
+      "createdAt": "2019-01-16T11:17:10Z",
+      "type": "DEBUG",
+      "source": "UI",
+      "details": "User login success"
+    },
+
+    {
+      "id": "3273bf58-bf03-5cc2-b13b-9101b0846765",
+      "createdAt": "2019-01-17T13:23:30Z",
+      "type": "INFO",
+      "source": "Data processor",
+      "details": "File Processed successfully"
+    },
+
+    {
+      "id": "3273bf58-bf03-5cc2-b13b-9101b084111",
+      "createdAt": "2019-01-18T12:34:20Z",
+      "type": "ERROR",
+      "source": "AuthService",
+      "details": "NullPointerException"
+    },
+
+    {
+      "id": "3273bf58-bf03-5cc2-b13b-9101b084132",
+      "createdAt": "2019-01-18T12:59:21Z",
+      "type": "ERROR",
+      "source": "Data Processor",
+      "details": "FileNotFound"
+    },
+
+    {
+      "id": "3273bf58-bf03-5cc2-b13b-9101b084451",
+      "createdAt": "2019-01-18T12:52:20Z",
+      "type": "INFO",
+      "source": "AuthService",
+      "details": "Authorization Successfull"
+    },
+
+    {
+      "id": "3273bf58-bf03-5cc2-b13b-9101b084563",
+      "createdAt": "2019-01-18T12:23:20Z",
+      "type": "ERROR",
+      "source": "UI",
+      "details": "DOMException"
+    },
+
+    {
+      "id": "3273bf58-bf03-5cc2-b13b-9101b084987",
+      "createdAt": "2019-01-18T12:45:20Z",
+      "type": "INFO",
+      "source": "Data Processor",
+      "details": "Data process complete"
+    },
+
+    {
+      "id": "3273bf58-bf03-5cc2-b13b-9101b08467",
+      "createdAt": "2019-01-18T12:39:20Z",
+      "type": "INFO",
+      "source": "UI",
+      "details": "Data loaded"
+    },
+
+    {
+      "id": "3273bf58-bf03-5cc2-b13b-9101b084191",
+      "createdAt": "2019-01-18T12:54:20Z",
+      "type": "ERROR",
+      "source": "AuthService",
+      "details": "UserNotFound"
+    },
+
+    {
+      "id": "3273bf58-bf03-5cc2-b13b-9101b084999",
+      "createdAt": "2019-01-18T12:24:12Z",
+      "type": "INFO",
+      "source": "AuthService",
+      "details": "Autherization successful"
+    }
+
+  ]
+
+}
